@@ -23,7 +23,7 @@ html
 css
 
 ### Wireframe
-![Test Image 1](image.jp)
+![Test Image 1](./Wireframe/image.jp)
 
 
 ### Additional Features 
